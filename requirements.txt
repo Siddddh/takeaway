@@ -1,0 +1,18 @@
+streamlit==1.35.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+plotly==5.22.0
+joblib==1.4.2
+SQLAlchemy==2.0.30
+psycopg2-binary==2.9.9
+aiohttp==3.9.5
+optuna==3.6.1
+haversine==2.8.1
+python-dotenv==1.0.1
+
+# Dev tools (latest stable versions)
+pytest==8.2.1
+black==24.4.2
+flake8==7.0.0
+mypy==1.10.0
